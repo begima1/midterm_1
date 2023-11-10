@@ -1,0 +1,7 @@
+. The git log command displays committed snapshots. It lets you list the project history, filter it, and search for specific changes. While git status lets you inspect the working directory and the staging area, git log only operates on the committed history.
+
+git-show is a command line utility that is used to view expanded details on Git objects such as blobs, trees, tags, and commits. git-show has specific behavior per object type. Tags show the tag message and other objects included i
+
+The git blame command is used to examine the contents of a file line by line and see when each line was last modified and who the author of the modifications was. The output format of git blame can be altered with various command line options.
+
+The git grep command is a specialized version of the famous grep command. Similarly to its general counterpart, git grep allows you to search for a given string pattern inside files, finding the lines that match the specified patterns.
